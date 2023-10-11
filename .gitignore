@@ -1,0 +1,13 @@
+#Local
+.venv
+.vscode
+
+#Django
+
+/corpordersapi/db.sqlite3
+*__pycache__
+*__init__.py
+*migrations
+
+#React
+/corp-orders/node_modules
